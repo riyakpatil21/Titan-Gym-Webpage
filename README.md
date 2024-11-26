@@ -1,2 +1,2 @@
 # Pizza House Cafe
-Pizza House Café is a cozy and vibrant eatery that specializes in serving delicious, mouth-watering pizzas made with the finest ingredients.
+Website using HTML, CSS about the cafe Pizza House which include information about the services, clients. It also includes navbar along with attractive background images
